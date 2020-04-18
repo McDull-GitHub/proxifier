@@ -1,3 +1,3 @@
-# proxifirt
+# proxifier
 
 `P427L-9Y552-5433E-8DSR3-58Z68`
